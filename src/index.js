@@ -6,6 +6,6 @@
 // flights(word).then(console.log).catch(console.error);
 
 //const axios = require("axios");
-const flights = require("./lib/flights");
-const destination = require("./lib/destination");
+//const flights = require("./lib/flights");
+//const destination = require("./lib/destination");
 const date = require("./lib/date");
