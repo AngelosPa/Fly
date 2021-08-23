@@ -30,7 +30,8 @@ npm i dotenv
 npm i axios --save
 
 4. Run the application
-   node index.js Tokyo Berlin 2021-11
-   node index.js <departurecity> <destinationcity> <date>
-
+   
+  ```sh node index.js <departurecity> <destinationcity> <date>
+ ```
 - the parametres are case sensitive and the date must follow the format YYYY-MM
+for example node index.js Tokyo Berlin 2021-11
