@@ -1,5 +1,7 @@
 # cheapflights
 
+my first back-end application which can inform you about the flight prices made by using the API from scyscanner
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
@@ -30,6 +32,7 @@ npm i dotenv
 npm i axios --save
 
 4. Run the application
+   write in terminal:
 
 ```sh node index.js <departurecity> <destinationcity> <date>
 
