@@ -33,8 +33,8 @@ npm i axios --save
 
 4. Run the application
    write in terminal:
+node index.js <departurecity> <destinationcity> <date>
 
- node index.js <departurecity> <destinationcity> <date>
 
 
 
